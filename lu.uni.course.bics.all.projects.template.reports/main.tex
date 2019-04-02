@@ -274,10 +274,10 @@ Email: motivated.tutor@uni.lu}%
 % As a general rule, do not put math, special symbols or citations
 % in the abstract
 \begin{abstract}
-This document is a template for the scientific and technical report that is to be delivered by any BiCS student at the end of each Bachelor Semester Project (BSP). The Latex source files are available at:\\
+This document is a template for the scientific and technical (S\&T for short) report that is to be delivered by any BiCS student at the end of each Bachelor Semester Project (BSP). The Latex source files are available at:\\
 \href{https://github.com/nicolasguelfi/lu.uni.course.bics.global}{{\underline{\textbf{https://github.com/nicolasguelfi/lu.uni.course.bics.global}}}}\\
   
-This template is to be used using the Latex document preparation system or using any document preparation system. The whole document should be in between 6000 to 8000 words and the proportions must be preserved. The other documents to be delivered (summaries, \ldots) should have their format adapted from this template.
+This template is to be used using the Latex document preparation system or using any document preparation system. The whole document should be in between 6000 to 8000 words (excluding the annexes) and the proportions must be preserved. The other documents to be delivered (summaries, \ldots) should have their format adapted from this template.
 
 
 \end{abstract}
@@ -297,41 +297,72 @@ This template is to be used using the Latex document preparation system or using
 \section{Introduction ($\pm$ 5\% total words)}
 % no \IEEEPARstart
 This paper presents the bachelor semester project made by Motivated Student together with Motivated Tutor as his motivated tutor.
-It the scientific and technical dimensions of the work done. All the words written here have been newly created by the authors and if some sequence of words or any graphic information created by other is included it is explicitly mentioned the reference original to the work reused.
+It presents the scientific and technical dimensions of the work done. All the words written here have been newly created by the authors and if some sequence of words or any graphic information created by others are included then it is explicitly indicated the original reference to the work reused. 
 
-The length of the report should be from 6000 to 8000 words excluding images.
+This report separates explicitly the scientific work from the technical one. In deed each BSP must cover those two dimensions with a constrained balance  (cf. \cite{bics-bsp-reference-document}). Thus it is up to the Motivated Tutor and Motivated Student to ensure that the deliverables belonging to each dimension are clearly stated. As an example, a project whose title would be ``A multi-user game for multi-touch devices'' could define as scientific~\cite{armstrong2017guidelinesforscience} deliverables the following ones:
+\begin{itemize}
+	\item Study of concurrency models and their implementation
+	\item Study of ergonomics in human-computer interaction
+\end{itemize}
+
+The length of the report should be from 6000 to 8000 words excluding images and annexes.
 
 \section{Project description ($\pm$ 10\% total words) }
-\subsection{Domain}
-Provide a description of the domain(s) in which the project is being made.
-\subsection{Objectives}
-Provide a synthetic and abstract description of the scientific and technical deliverables that were targeted to be produced. 
+\subsection{Domains}
+\subsubsection{Scientific }
+Provide a description of the scientific domain(s) in which the project is being made.
+\subsubsection{Technical}
+Provide a description of the technical domain(s) in which the project is being made.
 
-\subsection{Constraints}
-Provide all the constraints that were to be considered for the project.
-A constraint is a property that is agreed by you and your PAT to have been satisfied before starting the project.
-An example could be ``good level in Python programming''. 
-As a consequence the work done to satisfy the constraints cannot be presented as a deliverable of the BSP.
+\subsection{Targeted Deliverables}
+\label{sec-deliverables}
+\subsubsection{Scientific deliverables}
+Provide a synthetic and abstract description of the scientific deliverables that were targeted to be produced. 
+\subsubsection{Technical deliverables}
+Provide a synthetic and abstract description of the technical deliverables that were targeted to be produced. 
 
-\section{Background ($\pm$ 15\% total words)}
-Describe in this section all the knwoledge supposed to be formerly known by you (i.e. related to your constraints) and that is usefull to remind in order to understand the remaining part of your report.
-Do not include presentation of technologies or scientific concepts that belong to an objective of your BSP since it must be described in the section \ref{sec-production}.
 
-\subsection{Scientific}
-\subsection{Technical}
+% \subsection{Constraints}
+% Provide all the constraints that were to be considered for the project.
+% A constraint is a property that is agreed by you and your PAT to have been satisfied before starting the project.
+% An example could be ``good level in Python programming''. 
+% As a consequence the work done to satisfy the constraints cannot be presented as a deliverable of the BSP.
 
-\section{BSPro - A First Bachelor Semester Project in BiCS-land}
+\section{Background ($\pm$ 10\% total words)}
+Describe in this section the main knowledge supposed to be formerly known by you and that is useful to remind in order to understand the remaining parts of your report.
+Do not include presentation of technologies or scientific concepts that belong to an objective of your BSP since it must be described in the section \ref{sec-production}. Thus all the content of this section is not considered as a deliverable
+\subsection{Scientific background}
+\subsection{Technical background}
+
+\section{ A Scientific Deliverable 1}
+For each scientific deliverable targeted in section~\ref{sec-deliverables} provide the subsections described below.
 \label{sec-production}
-\subsection{Requirements ($\pm$ 15\% total words)}
+\subsection{Requirements ($\pm$ 15\% of section's words)}
 Describe here all the properties that characterize the deliverables you produced. It should describe, for each main deliverable, what are the expected functional and non functional properties of the deliverables, who are the actors exploiting the deliverables. It is expected that you have at least one scientific deliverable (e.g. ``Scientific presentation of the Python programming language'', ``State of the art on quality models for human computer interaction'', \ldots.) and one technical deliverable (e.g. ``BSProSoft - A python/django web-site for IT job offers retrieval and analysis'', \ldots). 
-\subsection{Design ($\pm$ 20\% total words)}
+\subsection{Design ($\pm$ 30\% of section's words)}
 Provide the necessary and most useful explanations on how those deliverables have been produced.
-\subsection{Production ($\pm$ 20\% total words)}
+\subsection{Production ($\pm$ 40\% of section's words)}
 Provide descriptions of the deliverables concrete production. It must present part of the deliverable (e.g. source code extracts, scientific work extracts, \ldots) to illustrate and explain its actual production.
-\subsection{Assessment ($\pm$ 15\% total words)}
+\subsection{Assessment ($\pm$ 15\% of section's words)}
 Provide any objective elements to assess that your deliverables do or do not satisfy the requirements described above. 
+
+\section{ A Technical Deliverable 1}
+For each technical deliverable targeted in section~\ref{sec-deliverables} provide the subsections described below.
+The cumulative volume of all deliverable sections represents 75\% of the paper's volume in words. Volumes below are indicated relative the the section.
+\label{sec-production}
+\subsection{Requirements ($\pm$ 15\% of section's words)}
+cf. section~\ref{sec-production} applied to the technical deliverable
+\subsection{Design ($\pm$ 30\% of section's words)}
+cf. section~\ref{sec-production} applied to the technical deliverable
+\subsection{Production ($\pm$ 40\% of section's words)}
+cf. section~\ref{sec-production} applied to the technical deliverable
+\subsection{Assessment ($\pm$ 15\% of section's words)}
+cf. section~\ref{sec-production} applied to the technical deliverable
+
+
 \section*{Acknowledgment}
 The authors would like to thank the BiCS management and education team for the amazing work done.
+
 
 \section{Conclusion}
 The conclusion goes here.
@@ -454,10 +485,22 @@ The conclusion goes here.
 % (used to reserve space for the reference number labels box)
 \begin{thebibliography}{1}
 
-\bibitem{bics-bsp-report-template}
+\bibitem[BiCS(2018a)]{bics-bsp-report-template}
 \newblock {BiCS Bachelor Semester Project Report Template}.
-\newblock {  https://github.com/nicolasguelfi/lu.uni.course.bics.global.}
+\newblock {https://github.com/nicolasguelfi/lu.uni.course.bics.global}
 \newblock {University of Luxembourg, BiCS - Bachelor in Computer Science (2017).}
+
+\bibitem[BiCS(2018b)] {bics-bsp-reference-document}
+{Bachelor in Computer Science}:
+\newblock {BiCS Semester Projects Reference Document}.
+\newblock Technical report, University of Luxembourg (2018)
+
+\bibitem[Armstrong and Green(2017)]{armstrong2017guidelinesforscience}
+J~Scott Armstrong and Kesten~C Green.
+\newblock Guidelines for science: Evidence and checklists.
+\newblock \emph{Scholarly Commons}, pages 1--24, 2017.
+\newblock {https://repository.upenn.edu/marketing_papers/181/}
+
 
 \end{thebibliography}
 \newpage 
