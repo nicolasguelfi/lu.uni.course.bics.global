@@ -14,3 +14,28 @@
 /report-main.ps
 /report-main.toc
 /report-main.xdy
+
+#ignore files we don't need
+*~
+*.swp
+*.backup
+*.bk
+*.tmp
+*.aux
+*.old
+*.aux
+*.bbl
+*.blg
+*.lof
+*.log
+*.out
+*.ps
+*.xml
+*.toc
+*.tui
+*.dvi
+*.gz
+#*.pdf
+._*
+#Ignore the annoying file created by Mac
+.DS_Store
