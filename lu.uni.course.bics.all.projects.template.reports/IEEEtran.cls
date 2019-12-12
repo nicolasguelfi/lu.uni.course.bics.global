@@ -1590,9 +1590,9 @@
 \ifCLASSOPTIONcompsoc
 % compsoc is all arabic
 \def\thesection{\arabic{section}}                
-\def\thesubsection{\thesection.\arabic{subsection}}
-\def\thesubsubsection{\thesubsection.\arabic{subsubsection}}
-\def\theparagraph{\thesubsubsection.\arabic{paragraph}}
+\def\thesubsection{\thesection\newline\arabic{subsection}}
+\def\thesubsubsection{\thesubsection\newline\arabic{subsubsection}}
+\def\theparagraph{\thesubsubsection\newline\arabic{paragraph}}
 \else
 \def\thesection{\Roman{section}}                             % I
 % V1.7, \mbox prevents breaks around - 
