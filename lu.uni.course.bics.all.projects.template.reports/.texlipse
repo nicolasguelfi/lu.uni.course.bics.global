@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Fri Aug 14 19:57:06 CEST 2020
+#Mon Nov 16 20:19:54 CET 2020
 markTmpDer=true
 builderNum=6
 outputDir=
@@ -7,8 +7,8 @@ makeIndSty=
 bibrefDir=
 outputFormat=pdf
 tempDir=tmp
-mainTexFile=mydiff.tex
-outputFile=mydiff.pdf
+mainTexFile=main.tex
+outputFile=main.pdf
 langSpell=en
 markDer=false
 srcDir=
