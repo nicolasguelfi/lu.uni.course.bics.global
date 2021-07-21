@@ -228,7 +228,7 @@
 % affiliations
 \author{\IEEEauthorblockN{Motivated Student}
 \IEEEauthorblockA{University of Luxembourg\\
-Email: motivated.student@uni.lu}
+Email: motivated.student.001@student.uni.lu}
 \\
 {\bf This report has been produced under the supervision of:}\\
 \IEEEauthorblockN{Motivated Tutor}
@@ -273,7 +273,7 @@ Email: motivated.tutor@uni.lu}%
 \maketitle
 
 %to remove for your report
-\footnote{a tutor is not a co-author per se for a student work. It is possible that you will exploit your BSP report to produce a scientific and technical publication. In this case, you'll discuss the authors list with the concerned parties (remove this footnote after having read it).}
+\footnote{}
 
 % As a general rule, do not put math, special symbols or citations
 % in the abstract
@@ -281,8 +281,9 @@ Email: motivated.tutor@uni.lu}%
 This document is a template for the scientific and technical (S\&T for short) report that is to be delivered by any BiCS student at the end of each Bachelor Semester Project (BSP). The Latex source files are available at:\\
 \href{https://github.com/nicolasguelfi/lu.uni.course.bics.global}{{\underline{\textbf{https://github.com/nicolasguelfi/lu.uni.course.bics.global}}}}\\
   
-This template is to be used using the Latex document preparation system or using any document preparation system. The whole document should be in between 6000 to 8000 words~\footnote{i.e. approximately 12 to 16 pages double columns} (excluding the annexes) and the proportions must be preserved. The other documents to be delivered (summaries, \ldots) should have their format adapted from this template.
+This template is to be used using the Latex document preparation system or using any document preparation system. The whole document should be in between 6000 to 8000 words~\footnote{i.e. approximately 12 to 16 pages double columns} (excluding the annexes) and the proportions must be preserved. The other documents to be delivered (summaries, \ldots) should have their format adapted from this template.\\
 
+A tutor (or any person having contributed to the BSP work) is not a co-author per se for a student's work. It is possible to exploit a BSP report to produce a scientific and technical publication. In this case, the authors list has to be discussed and agreed with the concerned parties.
 
 \end{abstract}
 
@@ -299,7 +300,10 @@ This template is to be used using the Latex document preparation system or using
 \IEEEpeerreviewmaketitle
 
 \section{Plagiarism statement}
-\footnote{this paragraph, not counting in the total words quantity, must be included in the submitted report but this footnote has to be removed.} I declare that I am aware of the following facts:
+{\it This section without this first paragraph must be included in the submitted report and placed after the conclusion. This section is not counting in the total words quantity.}\\
+
+\newline
+I declare that I am aware of the following facts:
 \begin{itemize}
 	\item As a student at the University of Luxembourg I must respect the rules of intellectual honesty, in particular not to resort to plagiarism, fraud or any other method that is illegal or contrary to scientific integrity.
 	\item My report will be checked for plagiarism and if the plagiarism check is positive, an internal procedure will be started by my tutor. I am advised to request a pre-check by my tutor to avoid any issue.
@@ -324,40 +328,52 @@ Auto- or self-plagiarism, that is the reproduction of (portions of a) text previ
 This paper presents the bachelor semester project made by Motivated Student together with Motivated Tutor as his motivated tutor.
 It presents the scientific and technical dimensions of the work done. All the words written here have been newly created by the authors and if some sequence of words or any graphic information created by others are included then it is explicitly indicated the original reference to the work reused. 
 
-This report separates explicitly the scientific work from the technical one. In deed each BSP must cover those two dimensions with a constrained balance  (cf. \cite{bics-bsp-reference-document}). Thus it is up to the Motivated Tutor and Motivated Student to ensure that the deliverables belonging to each dimension are clearly stated. As an example, a project whose title would be ``A multi-user game for multi-touch devices'' could define as scientific~\cite{armstrong2017guidelinesforscience} deliverables the following ones:
+This report separates explicitly the scientific work from the technical one. In deed each BSP must cover those two dimensions with a constrained balance  (cf. \cite{bics-bsp-reference-document}). Thus it is up to the Motivated Tutor and Motivated Student to ensure that the deliverables belonging to each dimension are clearly stated. As an example, a project whose title would be ``PLAYTOUCH - A multi-user game for multi-touch devices'' could define the following deliverables:
 \begin{itemize}
-	\item Study of concurrency models and their implementation
-	\item Study of ergonomics in human-computer interaction
-\end{itemize}
+  \item Possible scientific~\cite{armstrong2017guidelinesforscience} deliverables:
+		\begin{itemize}
+			\item What are concurrency models and how are they implemented?
+			\item How is measured ergonomics in human-computer interaction?
+			\item How to model the concurrency of a multi-touch devices?
+			\item Can PLAYTOUCH enter in a blocking state?
+			\item How to model the design of PLAYTOUCH?
+		\end{itemize}
+  \item Possible Technical deliverables:
+		\begin{itemize}
+			\item PLAYTOUCH Implementation
+			\item PLAYTOUCH Tests implementation
+			\item Hardware end system configuration for PLAYTOUCH
+		\end{itemize}
 
+\end{itemize}
 The length of the report should be from 6000 to 8000 words excluding images and annexes. The sections presenting the technical and scientific deliverables represent $\pm$ 80\% of total words of the report.
 
 \section{Project description ($\pm$ 10\% of total words) }
 \subsection{Domains}
 \subsubsection{Scientific }
-Provide a description of the scientific domain(s) in which the project is being made.
+Provide a short description of the scientific domain(s) in which the project is being made.
 \subsubsection{Technical}
-Provide a description of the technical domain(s) in which the project is being made.
+Provide a short description of the technical domain(s) in which the project is being made.
 
 \subsection{Targeted Deliverables}
 \label{sec-deliverables}
 \subsubsection{Scientific deliverables}
-Provide a synthetic and abstract description of the scientific deliverables that were targeted to be produced. 
-Each BSP must contain some work done according to the principles of the scientific method. It basically means that you should define at least one question related to the knowledge domain of your BSP and follow part of the scientific method process to answer to this question. The description of the work done to answer this question is a scientific deliverable.
+Provide a synthetic and abstract description of the scientific deliverables that have been produced. 
+Each BSP must contain some work done according to the principles of the scientific method. It basically means that you should define at least one question related to the knowledge domain of your BSP and follow part of the scientific method process to answer this question. The description of the work done to answer this question is a scientific deliverable.
 
-Examples of question could be:
+Other examples of question could be:
 \begin{itemize}
 	\item Is Python an adequate language for concurrent programs?
-	\item How can we measure the ergonomic of a graphical user interface?
+	\item How can we measure the ergonomics of a graphical user interface?
 	\item How can we ensure that a program will not fail?
 \end{itemize}
 
 An answer to such question should be the result of applying partly or totally the scientific method according to its standard definition which can be found in the literature.
 
-As you can see in this template, the scientific deliverable is entirely separated from the technical deliverable. Of course it addresses a question more or less closely related to the technical deliverable. 
+As you can see in this template, the scientific deliverable is entirely separated from the technical deliverable. It the default case it addresses a question closely related to the technical deliverable.  
 
 \subsubsection{Technical deliverables}
-Provide a synthetic and abstract description of the technical deliverables that were targeted to be produced. 
+Provide a synthetic and abstract description of the technical deliverables that were targeted to be produced. A technical deliverable in this report is the description of a product  build by the student using software or hardware technologies.
 
 
 % \subsection{Constraints}
@@ -368,7 +384,9 @@ Provide a synthetic and abstract description of the technical deliverables that 
 
 \section{Pre-requisites ($[5\%..10\%]$ of total words)} 
 Describe in these sections the main scientific and technical knowledge that is required to be known by you before starting the project.
-Do not describe in details this knowledge but only abstractly. All the content of this section shall not used, even partly, in the deliverable sections.
+Do not describe in details this knowledge but only abstractly. All the content of this section shall not be used, even partially, in the deliverable sections.
+It is important not to include in this section all the knowledge you have been obliged to acquire in order to produce the deliverable. It should only state the knowledge the student possessed before starting the project and that was mandatory to possess to be capable to produce the deliverables. It explicitly defines  the technical and scientific pre-condition for the project. It is also useful to avoid project failures due to over or under complex subjects.
+
 
 \subsection{Scientific pre-requisites}
 \subsection{Technical pre-requisites}
@@ -525,15 +543,15 @@ The conclusion goes here.
 % (used to reserve space for the reference number labels box)
 \begin{thebibliography}{1}
 
-\bibitem[BiCS(2018a)]{bics-bsp-report-template}
+\bibitem[BiCS(2021)]{bics-bsp-report-template}
 \newblock {BiCS Bachelor Semester Project Report Template}.
 \newblock {https://github.com/nicolasguelfi/lu.uni.course.bics.global}
-\newblock {University of Luxembourg, BiCS - Bachelor in Computer Science (2017).}
+\newblock {University of Luxembourg, BiCS - Bachelor in Computer Science (2021).}
 
-\bibitem[BiCS(2018b)] {bics-bsp-reference-document}
+\bibitem[BiCS(2021)] {bics-bsp-reference-document}
 {Bachelor in Computer Science}:
 \newblock {BiCS Semester Projects Reference Document}.
-\newblock Technical report, University of Luxembourg (2018)
+\newblock Technical report, University of Luxembourg (2021)
 
 \bibitem[Armstrong and Green(2017)]{armstrong2017guidelinesforscience}
 J~Scott Armstrong and Kesten~C Green.
