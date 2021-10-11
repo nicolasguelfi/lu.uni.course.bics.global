@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2021.3.1)  9 SEP 2021 12:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2021.3.1)  11 OCT 2021 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -632,4 +632,4 @@ Here is how much of TeX's memory you used:
  1144 hyphenation exceptions out of 8191
  83i,8n,88p,986b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (3 pages, 31536 bytes).
+Output written on main.dvi (3 pages, 31532 bytes).
