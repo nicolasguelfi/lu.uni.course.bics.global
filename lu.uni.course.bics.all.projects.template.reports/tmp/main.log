@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2021.3.1)  9 SEP 2021 12:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2021.3.1)  11 OCT 2021 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,34 +395,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.305 \newline
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 308.
+(Font)              <7> on input line 307.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 326.
+(Font)              <12> on input line 325.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 326.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 326.
+(hyperref)                removing `math shift' on input line 325.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 326.
+(hyperref)                removing `\pm' on input line 325.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 325.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -431,177 +418,141 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 2547) in paragraph at lines 345--346
+Underfull \hbox (badness 2547) in paragraph at lines 344--345
 []\OT1/ptm/m/n/10 Hardware end sys-tem con-fig-u-ra-tion for PLAY-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 351.
+(hyperref)                removing `math shift' on input line 350.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 351.
+(hyperref)                removing `\pm' on input line 350.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 351.
+(hyperref)                removing `math shift' on input line 350.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 385.
+(hyperref)                removing `math shift' on input line 384.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 385.
+(hyperref)                removing `math shift' on input line 384.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 398.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 397.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 398.
+(Font)              <11> on input line 397.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 398.
+(Font)              <7.69997> on input line 397.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 398.
+(Font)              <5.5> on input line 397.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 398.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 398.
+(hyperref)                removing `math shift' on input line 397.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 398.
+(hyperref)                removing `\pm' on input line 397.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 400.
+(hyperref)                removing `math shift' on input line 397.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 400.
+(hyperref)                removing `math shift' on input line 399.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 400.
+(hyperref)                removing `\pm' on input line 399.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 399.
 
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 402.
+(hyperref)                removing `math shift' on input line 401.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 402.
+(hyperref)                removing `\pm' on input line 401.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 402.
+(hyperref)                removing `math shift' on input line 401.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 404.
+(hyperref)                removing `math shift' on input line 403.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 404.
+(hyperref)                removing `\pm' on input line 403.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 404.
+(hyperref)                removing `math shift' on input line 403.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 411.
+(hyperref)                removing `math shift' on input line 410.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 411.
+(hyperref)                removing `\pm' on input line 410.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 411.
+(hyperref)                removing `math shift' on input line 410.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 413.
+(hyperref)                removing `math shift' on input line 412.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 413.
+(hyperref)                removing `\pm' on input line 412.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 413.
+(hyperref)                removing `math shift' on input line 412.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 415.
+(hyperref)                removing `math shift' on input line 414.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 415.
+(hyperref)                removing `\pm' on input line 414.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 415.
+(hyperref)                removing `math shift' on input line 414.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 417.
+(hyperref)                removing `math shift' on input line 416.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 417.
+(hyperref)                removing `\pm' on input line 416.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 417.
+(hyperref)                removing `math shift' on input line 416.
 
 
-Underfull \hbox (badness 7522) in paragraph at lines 547--550
+Underfull \hbox (badness 7522) in paragraph at lines 546--549
 [] \OT1/ptm/m/n/8 BiCS Bach-e-lor Semester Project Re-port Tem-plate.
  []
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.560 ... {https://repository.upenn.edu/marketing_
-                                                  papers/181/}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-! Extra }, or forgotten $.
-l.560 ...pository.upenn.edu/marketing_papers/181/}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.561 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.561 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Underfull \hbox (badness 1436) in paragraph at lines 557--561
+Underfull \hbox (badness 1436) in paragraph at lines 556--560
 []\OT1/ptm/m/n/8 J Scott Arm-strong and Kesten C Green.
  []
 
@@ -624,12 +575,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B3A143A8A944FCBCB9EE2EBCF2A91E00;4886.
  ) 
 Here is how much of TeX's memory you used:
- 9103 strings out of 479024
- 138717 string characters out of 5859424
+ 9104 strings out of 479024
+ 138735 string characters out of 5859424
  481789 words of memory out of 5000000
- 26477 multiletter control sequences out of 15000+600000
+ 26478 multiletter control sequences out of 15000+600000
  431389 words of font info for 86 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  83i,8n,88p,986b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (3 pages, 31536 bytes).
+Output written on main.dvi (3 pages, 31408 bytes).
