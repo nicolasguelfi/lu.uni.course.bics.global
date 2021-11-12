@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2021.3.1)  11 OCT 2021 14:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2021.3.1)  12 OCT 2021 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -324,28 +324,28 @@ LaTeX Warning: Label `sec-production' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 215.
+LaTeX Font Info:    ... okay on input line 215.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 215.
+LaTeX Font Info:    ... okay on input line 215.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 215.
+LaTeX Font Info:    ... okay on input line 215.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 215.
+LaTeX Font Info:    ... okay on input line 215.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 215.
+LaTeX Font Info:    ... okay on input line 215.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 215.
+LaTeX Font Info:    ... okay on input line 215.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 215.
+LaTeX Font Info:    ... okay on input line 215.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 215.
+LaTeX Font Info:    ... okay on input line 215.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 215.
+LaTeX Font Info:    ... okay on input line 215.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
-Package hyperref Info: Link coloring OFF on input line 214.
+Package hyperref Info: Link coloring OFF on input line 215.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -359,57 +359,57 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count299
 )
-LaTeX Info: Redefining \ref on input line 214.
-LaTeX Info: Redefining \pageref on input line 214.
-LaTeX Info: Redefining \nameref on input line 214.
+LaTeX Info: Redefining \ref on input line 215.
+LaTeX Info: Redefining \pageref on input line 215.
+LaTeX Info: Redefining \nameref on input line 215.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 2
-74.
+75.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 274.
+(Font)              <9> on input line 275.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 274.
+(Font)              <6> on input line 275.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 274.
+(Font)              <5> on input line 275.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 282.
+(Font)              <8> on input line 283.
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
+Underfull \hbox (badness 10000) in paragraph at lines 282--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 307.
+(Font)              <7> on input line 308.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 325.
+(Font)              <12> on input line 326.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 325.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 325.
+(hyperref)                removing `math shift' on input line 326.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 325.
+(hyperref)                removing `\pm' on input line 326.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 326.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -418,133 +418,133 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 2547) in paragraph at lines 344--345
+Underfull \hbox (badness 2547) in paragraph at lines 345--346
 []\OT1/ptm/m/n/10 Hardware end sys-tem con-fig-u-ra-tion for PLAY-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 350.
+(hyperref)                removing `math shift' on input line 351.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 350.
+(hyperref)                removing `\pm' on input line 351.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 350.
+(hyperref)                removing `math shift' on input line 351.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 384.
+(hyperref)                removing `math shift' on input line 385.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 384.
+(hyperref)                removing `math shift' on input line 385.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 397.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 398.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 397.
+(Font)              <11> on input line 398.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 397.
+(Font)              <7.69997> on input line 398.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 397.
+(Font)              <5.5> on input line 398.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 397.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 397.
+(hyperref)                removing `math shift' on input line 398.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 397.
+(hyperref)                removing `\pm' on input line 398.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 399.
+(hyperref)                removing `math shift' on input line 398.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 399.
+(hyperref)                removing `math shift' on input line 400.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 399.
+(hyperref)                removing `\pm' on input line 400.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 400.
 
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 401.
+(hyperref)                removing `math shift' on input line 402.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 401.
+(hyperref)                removing `\pm' on input line 402.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 401.
+(hyperref)                removing `math shift' on input line 402.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 403.
+(hyperref)                removing `math shift' on input line 404.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 403.
+(hyperref)                removing `\pm' on input line 404.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 403.
+(hyperref)                removing `math shift' on input line 404.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 410.
+(hyperref)                removing `math shift' on input line 411.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 410.
+(hyperref)                removing `\pm' on input line 411.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 410.
+(hyperref)                removing `math shift' on input line 411.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 412.
+(hyperref)                removing `math shift' on input line 413.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 412.
+(hyperref)                removing `\pm' on input line 413.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 412.
+(hyperref)                removing `math shift' on input line 413.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 414.
+(hyperref)                removing `math shift' on input line 415.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 414.
+(hyperref)                removing `\pm' on input line 415.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 414.
+(hyperref)                removing `math shift' on input line 415.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 416.
+(hyperref)                removing `math shift' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 416.
+(hyperref)                removing `\pm' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 416.
+(hyperref)                removing `math shift' on input line 417.
 
 
 Underfull \hbox (badness 7522) in paragraph at lines 546--549
@@ -583,4 +583,4 @@ Here is how much of TeX's memory you used:
  1144 hyphenation exceptions out of 8191
  83i,8n,88p,986b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (3 pages, 31408 bytes).
+Output written on main.dvi (3 pages, 31412 bytes).
