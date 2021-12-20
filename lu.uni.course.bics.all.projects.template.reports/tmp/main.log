@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2021.3.1)  12 OCT 2021 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2021.3.1)  20 DEC 2021 19:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -461,6 +461,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 398.
 
+[2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 400.
@@ -473,7 +474,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 400.
 
-[2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 402.
@@ -556,6 +556,7 @@ Underfull \hbox (badness 1436) in paragraph at lines 556--560
 []\OT1/ptm/m/n/8 J Scott Arm-strong and Kesten C Green.
  []
 
+[3]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -567,7 +568,9 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3] (./main.aux)
+[4
+
+] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -583,4 +586,4 @@ Here is how much of TeX's memory you used:
  1144 hyphenation exceptions out of 8191
  83i,8n,88p,986b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (3 pages, 31412 bytes).
+Output written on main.dvi (4 pages, 32092 bytes).
